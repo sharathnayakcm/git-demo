@@ -10,8 +10,7 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started this is first changedgsagasdgasd
-            </h2>
+            <h2>Getting started</h2>
             <p>
                 ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
             A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
@@ -21,7 +20,7 @@
             </p>
         </div>
         <div class="col-md-4"> this s going on
-            <h2>Get more libraries</h2>dfgdfgsd
+            <h2>Get more libraries</h2>
             <p>
                 NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
             </p>

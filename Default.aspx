@@ -21,7 +21,7 @@
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
         </div>
-        <div class="col-md-4"> this s going on
+        <div class="col-md-4"> this s going on sampl4e
             <h2>Get more libraries</h2>
             <p>
                 NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.

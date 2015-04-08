@@ -42,8 +42,6 @@
     </div>
     <div>
         <h2>website for git</h2>
-        <h1>another commit from arun</h1>
-        <p>added refactor</p>
     </div>
 
 </asp:Content>
